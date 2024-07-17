@@ -28,8 +28,8 @@ const Index = () => {
           </div>
         </div>
       </div>
-      <div className="w-full flex justify-center items-end relative">
-        <div className="w-full flex justify-center items-center">
+      <div className="w-full h-screen flex justify-center items-end relative">
+        <div className="absolute bottom-0 w-full flex justify-center">
           <Image
             src={Heroimages}
             alt="heroimages"
